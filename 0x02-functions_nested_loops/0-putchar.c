@@ -9,11 +9,11 @@ int main(void)
 {
 	_putchar('_');
 	_putchar('p');
-	_putchar(รร'u');
+	_putchar('u');
 	_putchar('t');
-	_putchar(ร'c');
+	_putchar('c');
 	_putchar('h');
-	_putchar(ร'a');
+	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
 
